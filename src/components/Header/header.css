@@ -1,0 +1,8 @@
+@import url("../../styles/colors.css");
+.header {
+    padding: 20px 0;
+}
+
+.header a {
+    padding: 0 50px;
+}
