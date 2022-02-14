@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Elephant-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Elephant-Regular"), url("../media/fonts/elephant.ttf") format("truetype");
+}
+
+.title {
+    font-family: "Elephant-Regular";
+    font-size: 60px;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}

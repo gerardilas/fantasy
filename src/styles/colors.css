@@ -1,0 +1,43 @@
+:root {
+    --main-bg-color: #fef7fa;
+    --main-txt-color: #424b54;
+    --contrast-bg: #fc5f91;
+    /* #fddbe6; */
+    --contrast-txt: #ffe7f2;
+    --product-color-1: #12557b;
+    --product-color-2: #35127b;
+    --product-color-3: #7b1212;
+    /* #fc5f91;#d89fac;#ea4063;#2f2d3d;#5c6796; */
+}
+
+.main-bg {
+    background-color: var(--main-bg-color);
+}
+
+.main-txt-color {
+    color: var(--main-txt-color);
+}
+
+.contrast-bg {
+    background-color: var(--contrast-bg);
+}
+
+.contrast-txt-bg {
+    background-color: var(--contrast-txt);
+}
+
+.contrast-txt {
+    color: var(--contrast-txt);
+}
+
+.product-color-1 {
+    background-color: var(--product-color-1);
+}
+
+.product-color-2 {
+    background-color: var(--product-color-2);
+}
+
+.product-color-3 {
+    background-color: var(--product-color-3);
+}
